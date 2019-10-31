@@ -1,0 +1,13 @@
+out/*
+.cproject
+.project
+.settings/
+.clang-format
+.vscode/
+*.o
+*.elf
+*.velf
+*.self
+*.bin
+*.sfo
+*.vpk
